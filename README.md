@@ -9,7 +9,7 @@ This repository contains scripts for fecal microbiome taxa and function analyses
 * RStudio '2022.12.0.353' (or newer)
 
 ## Required Files
-**Data Availability**: Dietary intake data and fecal SCFA data that are already publicly available are provided in this GitHub repository. Metagenomic reads for 330 individuals are deposited in the NCBI Sequence Read Archive under two accession numbers: SRP354271 and SRP497208. Requests for non-metagenomic data from the USDA ARS WHNRC Nutritional Phenotyping Study used in this analysis should be made via email to the senior WHNRC author on the publication of interest. Requests will be reviewed quarterly by a committee consisting of the study investigators.
+**Data Availability**: Dietary intake data and fecal SCFA data that are already publicly available are provided in this GitHub repository. Metagenomic reads for 330 individuals are deposited in the NCBI Sequence Read Archive under two accession numbers: SRP354271 and SRP497208. 
 
 ## Description of Scripts
 Scripts in each set are intended to be run separately.
